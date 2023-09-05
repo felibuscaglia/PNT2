@@ -1,4 +1,4 @@
-export const personajesSimpsons = [
+module.exports = [
   { nombre: "Homero", edad: 39, rol: "Padre" },
   { nombre: "Marge", edad: 36, rol: "Madre" },
   { nombre: "Bart", edad: 10, rol: "Hijo" },

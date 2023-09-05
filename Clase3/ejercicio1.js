@@ -1,4 +1,4 @@
-import { personajesSimpsons } from "./personajes";
+const personajesSimpsons = require('./personajes');
 
 const MIN_EDAD = 18;
 
